@@ -16,7 +16,7 @@
       lesnik 🌲 UTSA Dashboard is not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains blog https://teletype.in/@lesnik13utsa 🚀
+      Patience and a little effort!
     </h2>
 
     <div>
