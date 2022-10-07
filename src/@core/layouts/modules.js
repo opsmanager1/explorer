@@ -6,8 +6,8 @@ export default () => ([
   },
   {
     scope: 'normal',
-    title: 'blocks',
-    route: 'blocks',
+    title: 'parameters',
+    route: 'parameters',
   },
   {
     scope: 'normal',
@@ -22,13 +22,13 @@ export default () => ([
   },
   {
     scope: 'normal',
-    title: 'uptime',
-    route: 'uptime',
+    title: 'blocks',
+    route: 'blocks',
   },
   {
     scope: 'normal',
-    title: 'parameters',
-    route: 'parameters',
+    title: 'uptime',
+    route: 'uptime',
   },
   {
     scope: 'normal',
