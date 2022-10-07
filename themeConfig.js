@@ -9,16 +9,16 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'lesnik | UTSA', // Will update name in navigation menu (Branding)
+    appName: 'lesnik 🌲 UTSA', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logo.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
-    skin: 'bordered', // light, dark, bordered, semi-dark
+    skin: 'light', // light, dark, bordered, semi-dark
     routerTransition: 'zoom-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
-    contentWidth: 'full', // full, boxed
+    contentWidth: 'boxed', // full, boxed
     menu: {
       hidden: false,
       isCollapsed: false,
@@ -29,7 +29,7 @@ export const $themeConfig = {
       backgroundColor: '', // BS color options [primary, success, etc]
     },
     footer: {
-      type: 'static', // static, sticky, hidden
+      type: 'sticky', // static, sticky, hidden
     },
     customizer: true,
     enableScrollToTop: true,
