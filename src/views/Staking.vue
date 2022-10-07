@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="🌍 To plant new trees 🌲  🌍"
+      title="🌲🌲🌲 To plant new trees 🌲🌲🌲"
       class="overflow-auto"
     >
       <b-table
