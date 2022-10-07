@@ -9,7 +9,7 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'lesnik🌲UTSA', // Will update name in navigation menu (Branding)
+    appName: '🌲 UTSA', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logo.svg', // Will update logo in navigation menu (Branding)
   },
