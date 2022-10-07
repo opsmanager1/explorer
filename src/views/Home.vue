@@ -7,16 +7,16 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          lesnik 🌲 UTSA Dashboard<small class="flow-left">Let's save nature</small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
+      lesnik 🌲 UTSA Dashboard is not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+      Cosmos Ecosystem Blockchains blog https://teletype.in/@lesnik13utsa 🚀
     </h2>
 
     <div>
