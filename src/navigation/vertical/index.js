@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://github.com/lesnikutsa/lesnik_utsa/blob/main/logo/tpr.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
