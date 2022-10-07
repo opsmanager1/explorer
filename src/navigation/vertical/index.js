@@ -31,30 +31,25 @@ function processMenu() {
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      title: 'Explorer',
+      href: 'http://exp.utsa.tech/',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/lesnikutsa',
     icon: 'GithubIcon',
   })
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg/CmjYVSr6GW',
+    href: 'lesnik_utsa#4480',
     icon: 'EyeIcon',
   })
   chainMenus.push({
-    title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
-    icon: 'TwitterIcon',
-  })
-  chainMenus.push({
-    title: 'Telegram',
-    href: 'https://t.me/pingpub',
-    icon: 'SendIcon',
+    title: 'Blog',
+    href: 'https://teletype.in/@lesnik13utsa',
+    icon: 'EyeIcon',
   })
 
   return chainMenus
