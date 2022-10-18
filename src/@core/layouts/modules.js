@@ -11,6 +11,11 @@ export default () => ([
   },
   {
     scope: 'normal',
+    title: 'blocks',
+    route: 'blocks',
+  },
+  {
+    scope: 'normal',
     title: 'staking',
     route: 'staking',
   },
@@ -19,11 +24,6 @@ export default () => ([
     title: 'governance',
     route: 'governance',
     exclude: 'emoney',
-  },
-  {
-    scope: 'normal',
-    title: 'blocks',
-    route: 'blocks',
   },
   {
     scope: 'normal',
