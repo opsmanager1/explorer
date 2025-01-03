@@ -1,24 +1,24 @@
 {
-    "chain_name": "chronic-token",
-    "api": ["https://chtd-api.skynetvalidators.com"],
-    "rpc": ["https://rpc-chronic.zenchainlabs.io/"],
+    "chain_name": "Warden protocol (chiado)",
+    "api": ["https://warden-api.bitnodes.xyz/"],
+    "rpc": ["https://warden-rpc.bitnodes.xyz/"],
     "snapshot_provider": "",
-    "sdk_version": "0.41.3",
+    "sdk_version": "0.5.4",
     "coin_type": "118",
     "min_tx_fee": "200",
     "assets": [{
         "base": "ucht",
-        "symbol": "CHT",
+        "symbol": "WARD",
         "exponent": "6",
         "coingecko_id": "", 
-        "logo": "/logos/chronic-token.jpg"
+        "logo": "/logos/warden.png"
     },{
         "base": "ucgas",
-        "symbol": "CGAS",
+        "symbol": "award",
         "exponent": "6",
         "coingecko_id": "", 
-        "logo": "/logos/chronic-token.jpg"
+        "logo": "/logos/warden.png"
     }],
-    "addr_prefix": "chronic",
-    "logo": "/logos/chronic-token.jpg"
+    "addr_prefix": "warden",
+    "logo": "/logos/warden.png"
 }
