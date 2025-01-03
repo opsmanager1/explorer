@@ -29,26 +29,15 @@ function processMenu() {
       href: 'https://ping.pub',
       icon: 'ChromeIcon',
     })
-  } else {
-    chainMenus.push({
-      title: 'Explorer',
-      href: 'http://exp.utsa.tech/',
-      icon: 'LifeBuoyIcon',
-    })
-  }
+  } 
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/lesnikutsa',
+    href: 'https://github.com/opsmanager1',
     icon: 'GithubIcon',
   })
   chainMenus.push({
-    title: 'Discord',
-    href: 'lesnik_utsa#4480',
-    icon: 'EyeIcon',
-  })
-  chainMenus.push({
     title: 'Blog',
-    href: 'https://teletype.in/@lesnik13utsa',
+    href: 'https://medium.com/@bitnodes',
     icon: 'EyeIcon',
   })
 
