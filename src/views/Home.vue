@@ -7,17 +7,14 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          lesnik 🌲 UTSA Dashboard<small class="flow-left">Let's save nature</small>
+          BITNODES validator Dashboard
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      lesnik 🌲 UTSA Dashboard is not just an explorer but also a wallet and more ... 🛠
+      feel free when you are visiting BITNODES home..
     </p>
-    <h2 class="mb-3">
-      Patience and a little effort!
-    </h2>
 
     <div>
       <b-row class="match-height">
