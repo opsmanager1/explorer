@@ -1,5 +1,5 @@
 {
-    "chain_name": "Warden protocol (chiado)",
+    "chain_name": "Warden",
     "api": ["https://warden-api.bitnodes.xyz/"],
     "rpc": ["https://warden-rpc.bitnodes.xyz/"],
     "snapshot_provider": "",
